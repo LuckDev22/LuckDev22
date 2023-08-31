@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-ribeiro-1ba28b229" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="lucas-ribeiro-1ba28b229" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-ribeiro-1ba28b229" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-ar21.svg" alt="lucas-ribeiro-1ba28b229" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
