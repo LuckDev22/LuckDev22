@@ -6,19 +6,19 @@
 <p align="left"> <a href="https://github.com/LuckDev22"><img src="https://github-profile-trophy.vercel.app/?username=luckdev22" alt="luckdev22" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at: 
 [https://my-portfolio-lac-pi.vercel.app/](https://my-portfolio-lac-pi.vercel.app/)
 
-- 📫 How to reach me **lukki12@gmail.com**
+- 📫 How to reach me: **lukki12@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences: 
 [https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing](https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing)
 
 - ⚡ Fun fact **Apaixonado por animes e colecionar figure actions, Entusiasta de robótica e tecnologia, Amante da programação e inovação"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-ribeiro-1ba28b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-ribeiro-1ba28b229" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-ribeiro-1ba28b229" target="blank"><img align="center" src="hhttps://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="lucas-ribeiro-1ba28b229" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
