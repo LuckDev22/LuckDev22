@@ -14,7 +14,7 @@
 - 📄 Know about my experiences: 
 [https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing](https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing)
 
-- ⚡ Fun fact **Apaixonado por animes e colecionar figure actions, Entusiasta de robótica e tecnologia, Amante da programação e inovação"**
+- ⚡ Fun fact: **Apaixonado por animes e colecionar figure actions, Entusiasta de robótica e tecnologia, Amante da programação e inovação"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
