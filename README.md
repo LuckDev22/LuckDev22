@@ -1,17 +1,18 @@
 <h1 align="center">Olá 👋, sou Lucas Macedo Ribeiro</h1>
-<h3 align="center">Desenvolvedor Full Stack, apaixonado por tecnologia incluindo diversas linguagens de programação Node | Datilografado | JavaScript | PHP | Reagir | TypeOrm</h3>
+<h3 align="center">Desenvolvedor Full Stack, apaixonado por tecnologia incluindo diversas linguagens de programação Node | Typescript | JavaScript | PHP | React | TypeOrm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckdev22&label=Profile%20views&color=0e75b6&style=flat" alt="luckdev22" /> </ p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel .app/?username=luckdev22" alt="luckdev22" /></a> </p>
+<p align="left"> <a href="https://github.com/LuckDev22"><img src="https://github-profile-trophy.vercel.app/?username=luckdev22" alt="luckdev22" /></a> </p>
 
-<p align="left"> <a href="https://twitter.
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-lac-pi.vercel.app/](https://my-portfolio-lac-pi.vercel.app/)
+- 👨‍💻 All of my projects are available at 
+[https://my-portfolio-lac-pi.vercel.app/](https://my-portfolio-lac-pi.vercel.app/)
 
 - 📫 How to reach me **lukki12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing](https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing)
+- 📄 Know about my experiences 
+[https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing](https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing)
 
 - ⚡ Fun fact **Apaixonado por animes e colecionar figure actions, Entusiasta de robótica e tecnologia, Amante da programação e inovação"**
 
