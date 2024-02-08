@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Lucas Macedo Ribeiro</h1>
-<h3 align="center">Desenvolvedor Full Stack, apaixonado por tecnologia incluindo diversas linguagens de programação Node | Typescript | JavaScript | PHP | React | TypeOrm</h3>
+<h3 align="center">Desenvolvedor Full Stack, apaixonado por tecnologia incluindo diversas linguagens de programação Node | Typescript | JavaScript  | React | TypeOrm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckdev22&label=Profile%20views&color=0e75b6&style=flat" alt="luckdev22" /> </ p>
 
@@ -7,7 +7,11 @@
 
 
 - 👨‍💻 All of my projects are available at: 
-[https://my-portfolio-lac-pi.vercel.app/](https://my-portfolio-lac-pi.vercel.app/)
+[my-portfolio](https://my-portfolio-lac-pi.vercel.app/)
+
+- my page
+
+- [http://codebyluck.com](http://codebyluck.com.s3-website-sa-east-1.amazonaws.com/)
 
 - 📫 How to reach me: **lukki12@gmail.com**
 
