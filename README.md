@@ -7,16 +7,15 @@
 
 
 - 👨‍💻 All of my projects are available at: 
-[my-portfolio](https://my-portfolio-lac-pi.vercel.app/)
+- [my-portfolio](https://my-portfolio-lac-pi.vercel.app/)
 
 - my page
-
 - [http://codebyluck.com](http://codebyluck.com.s3-website-sa-east-1.amazonaws.com/)
 
 - 📫 How to reach me: **lukki12@gmail.com**
 
 - 📄 Know about my experiences: 
-[https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing](https://drive.google.com/file/d/1QMDilp4CuhVob2QtjZRISJgal_saCKny/view?usp=sharing)
+[curriculo](https://drive.google.com/file/d/1k5v9eZTmt5EoftYhSA_No0fMTm2cgdOG/view?usp=sharing)
 
 - ⚡ Fun fact: **Apaixonado por animes e colecionar figure actions, Entusiasta de robótica e tecnologia, Amante da programação e inovação"**
 
