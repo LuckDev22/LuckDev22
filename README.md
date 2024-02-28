@@ -15,7 +15,7 @@
 - 📫 How to reach me: **lukki12@gmail.com**
 
 - 📄 Know about my experiences: 
-[curriculo](https://drive.google.com/file/d/1k5v9eZTmt5EoftYhSA_No0fMTm2cgdOG/view?usp=sharing)
+[curriculo](https://drive.google.com/file/d/1__4hK4cDSeVCUogYXBfPdiR4MOdq1M91/view?usp=sharing)
 
 - ⚡ Fun fact: **Apaixonado por animes e colecionar figure actions, Entusiasta de robótica e tecnologia, Amante da programação e inovação"**
 
