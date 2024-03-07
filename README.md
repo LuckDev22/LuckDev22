@@ -10,7 +10,7 @@
 - [my-portfolio](https://my-portfolio-lac-pi.vercel.app/)
 
 - my page
-- [http://codebyluck.com](http://codebyluck.com.s3-website-sa-east-1.amazonaws.com/)
+- [http://codebyluck.com](https://code-by-luck.vercel.app/)
 
 - 📫 How to reach me: **lukki12@gmail.com**
 
